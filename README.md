@@ -7,8 +7,7 @@
 
 ![KimMuok's github stats](https://github-readme-stats.vercel.app/api?username=Muokok&show_icons=true&theme=radical)
 
-## Blog
+## 📚 Blog
 [Blog: (https://muok.tistory.com/)](https://muok.tistory.com/)<br>
-이 곳에는 제가 공부하는 내용들을 기록하고 있습니다.
 
 </div>
