@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&animation=fadeIn&text=KimMuok)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&animation=fadeIn&text=김무옥)
 ####  :wave: Welcome !
  <br/> 
  
