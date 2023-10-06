@@ -8,7 +8,7 @@
 ![KimMuok's github stats](https://github-readme-stats.vercel.app/api?username=Muokok&show_icons=true&theme=radical)
 
 ### 📚 Blog
-https://muok.tistory.com/ >>> https://velog.io/@muok_1005
+https://velog.io/@muok_1005
 
 블로그 이사중!
 
