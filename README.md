@@ -10,6 +10,4 @@
 ### 📚 Blog
 https://velog.io/@muok_1005
 
-블로그 이사중!
-
 </div>
