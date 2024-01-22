@@ -11,7 +11,7 @@ https://velog.io/@muok_1005
 | 단체명 | 활동 기간 |
 | --- | --- |
 | UMC (University MakeUs Challenge) Node.js 파트| 2023.03 - 2023.08 |
-| UMC (University MakeUs Challenge) Spring boot 파트| 2023.09 - 2024.02 |
+| UMC (University MakeUs Challenge) Spring 파트| 2023.09 - 2024.02 |
 
 </br>
 
