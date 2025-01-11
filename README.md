@@ -1,7 +1,5 @@
 
-### 📚 Blog
-https://velog.io/@muok_1005
-</br>
+
 
 ### 📡 Activities
 | 단체명 | 활동 기간 |
